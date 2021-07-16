@@ -1,6 +1,7 @@
 %% calculates mica structural formula 
 %Uses 11 Oxygen normalization scheme
 %Assumes all Fe is FeO
+%Copyright (c) 2021 Jesse Walters
 
 clear all;
 close all;
