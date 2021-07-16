@@ -1,5 +1,6 @@
 %%calculates CPX formula following method 2 of 
 %Schumacher (1991) for Fe3+ by stoichiometry 
+% Copyright (c) 2021 Jesse Walters
 
 clear all;
 close all;
