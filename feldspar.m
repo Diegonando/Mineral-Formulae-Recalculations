@@ -1,5 +1,6 @@
 %% feldspar 
 %using normalization to 5 cations
+%Copyright (c) 2021 Jesse Walters
 
 clear all;
 close all;
