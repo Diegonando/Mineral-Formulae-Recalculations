@@ -3,7 +3,7 @@ Matlab codes for the recalculations of mineral formulae from microprobe data.
 
 Codes are available in Matlab programming language for the following minerals: 
 
-Amphibole - 
+Amphibole - See the amphibole formula recalculation repository! 
 
 Chlorite - Calculates structural formula assuming all Fe is FeO and calculates the fractions for the sudonite, clinochlore, chamosite, nimite, and pennnantite endmembers. Normalizes to 14 oxygens. 
 
