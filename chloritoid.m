@@ -1,5 +1,6 @@
 %%calculates chloritoid formulae
 %Fe3+ calculated following method 2 of Schumacher (1991)
+% Copyright (c) 2021 Jesse Walters
 
 clear all;
 close all;
