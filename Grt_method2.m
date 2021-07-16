@@ -1,4 +1,5 @@
 %%calculates Grt formula  
+% Copyright (c) 2021 Jesse Walters
 
 clear all;
 close all;
