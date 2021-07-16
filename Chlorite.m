@@ -1,4 +1,5 @@
 %%calculate chlorite structural formulas and endmembers 
+% Copyright (c) 2021 Jesse Walters
 %assumes all Fe is FeO
 
 clear all;
